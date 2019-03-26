@@ -1,0 +1,8 @@
+{
+  "name": "mongodb-test-monorepo-node",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "mongodb": "^3.2.2"
+  }
+}
